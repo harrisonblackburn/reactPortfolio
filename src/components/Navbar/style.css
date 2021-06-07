@@ -1,0 +1,9 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+  }
+
+ .navbar-expand-lg {
+   background-color: rgb(218, 168, 77);
+   text-decoration: bold;
+   min-height: 40px;
+ }
